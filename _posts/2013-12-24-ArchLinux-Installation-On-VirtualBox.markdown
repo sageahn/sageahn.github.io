@@ -7,6 +7,7 @@ comments: true
 ---
 
 [link](http://wideaperture.net/blog/?p=3851)
+Arch Linux를 내 맥북프로의 VirtualBox에 설치하려고 했었는데 Wiki만 보고는 영어의 압박으로 못하다가 위의 링크를 발견하고 일사천리로 진행. 링크가 조금 오래되어 약간 다른부분들도 있고, 설명이 길다보니 각 단계의 진행사항을 나중에 따라하기 힘들어 간결하게 정리 해 두었다.
 
 # partitioning
 virtualbox image 생성하고 iso파일로 부팅한다. 다음 작업은 partitioning
