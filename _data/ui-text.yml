@@ -29,8 +29,31 @@ en: &DEFAULT_EN
   recent_posts          : "Recent Posts"
 en-US:
   <<: *DEFAULT_EN
-en-UK:
-  <<: *DEFAULT_EN
+ko-KR:
+  page                  : "페이지"
+  pagination_previous   : "이전"
+  pagination_next       : "다음"
+  breadcrumb_home_label : "Home"
+  breadcrumb_separator  : "/"
+  toc_label             : "On This Page"
+  ext_link_label        : "Direct Link"
+  less_than             : "less than"
+  minute_read           : "minute read"
+  minutes_read          : "minutes read"
+  share_on_label        : "Share on"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Categories:"
+  date_label            : "Updated:"
+  comments_label        : "Leave a Comment"
+  more_label            : "Learn More"
+  related_label         : "You May Also Enjoy"
+  follow_label          : "Follow:"
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Website"
+  email_label           : "Email"
+  recent_posts          : "Recent Posts"
 
 # Another locale
 # --------------
