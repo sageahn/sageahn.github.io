@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: sageahn.com on Jekyll and github.io
 layout: post
 ---
