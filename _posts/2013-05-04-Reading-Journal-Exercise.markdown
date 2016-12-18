@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Reading, Journal and Exercise
 category: blog
 tags: journal, ac2

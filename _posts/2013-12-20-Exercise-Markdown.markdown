@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Exercise Markdown
 category: blog
 tags: markdown blog

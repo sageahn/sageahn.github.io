@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Arch Linux Installation on the VirtualBox
 category: technote
 tags: arch linux installation

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 개인 회고
 category: blog
 tags:

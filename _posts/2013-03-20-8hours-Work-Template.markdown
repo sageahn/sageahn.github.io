@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 일8시간 근무시간 준수용 스케쥴
 category: blog
 tags: work
