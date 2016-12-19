@@ -2,8 +2,8 @@
 published: true
 layout: single
 title: "Life Hacking을 위한 오늘의 작업들"
-category: life
-tags: lifehacking
+category: journal
+tags: lifehacking, daily
 comments: true
 ---
 1. 일이 안되면 책상을 정리하거나 청소를 하는데 이번 주말 토요일은 선방했지만 일요일은 망했다.
