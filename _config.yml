@@ -189,9 +189,7 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
-   enabled:
-     - categories
-     - tags
+   enabled: all
    layouts:
      category: archive-taxonomy
      tag: archive-taxonomy
