@@ -15,6 +15,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : sageahn/sageahn.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+remote_theme             : "mmistakes/minimal-mistakes"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -153,7 +154,7 @@ timezone: KR # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
