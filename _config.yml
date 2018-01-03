@@ -13,7 +13,6 @@ name                     : "Sage Ahn"
 description              : "Runner, Camper, Startup Founder and Father of two daughters"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-#gh_repo                  : sageahn/sageahn.github.io
 repository               : "sageahn/sageahn.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 remote_theme             : "mmistakes/minimal-mistakes"
@@ -148,7 +147,7 @@ kramdown:
 
 
 # Outputting
-#permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: KR # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
