@@ -44,7 +44,7 @@ ko-KR:
   meta_label            :
   tags_label            : "Tags:"
   categories_label      : "Categories:"
-  date_label            : "Updated:"
+  date_label            : "수정시간:"
   comments_label        : "Leave a Comment"
   more_label            : "Learn More"
   related_label         : "You May Also Enjoy"
@@ -53,7 +53,7 @@ ko-KR:
   powered_by            : "Powered by"
   website_label         : "Website"
   email_label           : "Email"
-  recent_posts          : "Recent Posts"
+  recent_posts          : "최근글"
 
 # Another locale
 # --------------
