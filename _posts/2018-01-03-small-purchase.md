@@ -1,7 +1,7 @@
 ---
 published: true
 layout: single
-title: "[소소한지름1] 소소한 지름 - 자신의 취향"
+title: "[소소한지름] 자신의 취향"
 category: shopping
 tags: daily
 comments: true
