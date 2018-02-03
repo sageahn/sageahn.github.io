@@ -3,7 +3,7 @@ published: true
 layout: single
 title: "[AgileSaturday] 2018년 첫번째 모임"
 category: AgileSaturday
-tags: Study, 
+tags: Study
 comments: true
 ---
 지난 주 토요일, 2018년 1월 6일은 AgileSaturday(토요모임) 2주년이었습니다. 8명이 시작해서 현재 5명 정도 매주 토요일 합정역 스타벅스에서 꾸준히 모임을 이어가고 있습니다. 이 날의 모임의 2주년을 기념하고 2018년 모임은 어떤 목표를 세울지 정하고 계획을 세웠습니다. 올 해가 기대되고 있습니다.
