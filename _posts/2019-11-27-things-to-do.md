@@ -3,7 +3,7 @@ published: true
 layout: single
 title: "결심 - 앞으로 해야 할 일"
 category: 
-tags: Goal, Principles, Plan
+tags: Goal Principles Plan
 comments: true
 ---
 2차년도 과제보고서를 쓰는 스트레스 와중에도 내 스스로가 만족스럽지 못한 모습을 계속 직면하면서 마치 늪에 빠져 허우적 거리고 있는 듯 했다.
