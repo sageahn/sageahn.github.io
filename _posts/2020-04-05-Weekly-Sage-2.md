@@ -3,7 +3,7 @@ published: true
 layout: single
 title: "Weekly Sage - 2호"
 category: Weekly Sage
-tags: "Weekly Sage"
+tags: "Weekly-Sage"
 comments: true
 ---
 
