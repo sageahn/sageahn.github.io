@@ -15,4 +15,9 @@ comments: true
 
 잘 정리 해 보려고 했으나 역시 인터넷에는 없는게 없다.
 
-[비머맥 - BMW 코딩 백서](https://bimmermac.com/bmw-%ec%bd%94%eb%94%a9-%eb%b0%b1%ec%84%9c) 보시라. 끗
+[비머맥 - BMW 코딩 백서](https://bimmermac.com/bmw-%ec%bd%94%eb%94%a9-%eb%b0%b1%ec%84%9c) 보시라.
+
+## more on coding
+
+- 런처 구매는 매우 고가거나 현재 많이 쓰는 것은 지원이 안되기 때문에 다운로드 받아야 한다.
+- 2020년 8월 4일 : 역시 한국은 카페, [BMW 코딩나눔터](https://cafe.naver.com/codingbmw)
