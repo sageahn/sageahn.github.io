@@ -9,6 +9,6 @@ comments: true
 
 귀찮음
 
-테스트
+Image Resize 테스트
 
-![](/images/20200804_070901.jpg)
+![](/images/20200804_070901.jpg){: width="100" height="100"}
