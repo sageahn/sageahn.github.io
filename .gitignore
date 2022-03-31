@@ -1,0 +1,9 @@
+_site/
+_drafts/
+_private/
+_config.yml.gfm
+.idea/
+node_modules/
+package-lock.json
+.jekyll-cache/
+
