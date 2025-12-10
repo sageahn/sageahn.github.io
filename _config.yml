@@ -123,4 +123,4 @@ tag_archive:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "sageahn" # Disqus에서 받은 shortname을 입력하세요
+    shortname: "sagelog" # Disqus에서 받은 shortname을 입력하세요
