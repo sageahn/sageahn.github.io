@@ -33,7 +33,7 @@ search: true
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-111863123"  # Replace with your GA4 Measurement ID
+    tracking_id: "G-4W2ZTT3SW1"  # Replace with your GA4 Measurement ID
     anonymize_ip: false # default
 
 # Build settings
